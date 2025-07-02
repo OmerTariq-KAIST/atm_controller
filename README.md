@@ -63,7 +63,7 @@ The ATM Controller follows the below arch
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/OmerTariq-KAIST/atm_controller.git
    cd atm-controller
    ```
 
